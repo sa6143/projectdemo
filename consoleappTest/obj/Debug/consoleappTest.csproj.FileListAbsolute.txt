@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2013\Projects\consoleappTest\consoleappTest\bin\Debug\consoleappTest.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\consoleappTest\consoleappTest\bin\Debug\consoleappTest.exe
+c:\users\dell\documents\visual studio 2013\Projects\consoleappTest\consoleappTest\bin\Debug\consoleappTest.pdb
+c:\users\dell\documents\visual studio 2013\Projects\consoleappTest\consoleappTest\obj\Debug\consoleappTest.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\consoleappTest\consoleappTest\obj\Debug\consoleappTest.exe
+c:\users\dell\documents\visual studio 2013\Projects\consoleappTest\consoleappTest\obj\Debug\consoleappTest.pdb
